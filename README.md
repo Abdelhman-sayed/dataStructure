@@ -20,11 +20,4 @@ Implement All Data Structure(linked list, queue, stack, Heaps, BST, AVLT)
  - Thrid: Circular Linked List
 
 
- ## I made BST
- 
- --queue based on array
- --queue based on linked list
-
- ## I made Queues in two different 
- --queue based on array
- --queue based on linked list
+ ## I made BST(Binary Search Tree)
