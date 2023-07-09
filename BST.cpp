@@ -38,7 +38,7 @@ class BST{
     bool findChain(vector< BST<type>*>&ancestors, int target);
  
     // to get parent from ancestors so we need function to get from it this parent
-     BST<type>* getNext(vector< BST<type>*>&ancestors);
+    BST<type>* getNext(vector< BST<type>*>&ancestors);
     BST<type>* minValue();
     type maxValue();
     // find successor (first element greater than target)
@@ -238,6 +238,7 @@ int main(){
     b.insert(12);
     b.insert(1);
     b.insert(3);
+    // cout << << endl;
     b.inOrderTraversal();
     // pair<bool, int>p;
     // p = b.successor(45);
