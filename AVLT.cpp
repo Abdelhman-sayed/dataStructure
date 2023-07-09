@@ -266,7 +266,7 @@ AVLTree<type>* AVLTree<type>::insert(type ele, AVLTree<type>* node)
         else
             node->left = insert(ele, node->left);
     }
-    else if(ele > data){
+    else if(ele > node->data){
         if(!node->right){
             node->right = new AVLTree(ele);
         }
@@ -374,6 +374,11 @@ int main(){
     a.insertN(7);
     a.insertN(8);
     a.insertN(9);
+    a.insertN(10);
+    a.insertN(11);
+    a.insertN(12);
+    a.insertN(13);
+    a.insertN(14);
     a.inOrderTraversal();
     // cout << 
     // a.insertN(7);
