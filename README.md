@@ -1,25 +1,25 @@
 # dataStructure
-Implement All Data Structure(linked list, queue, stack, Heaps, BST, AVLT)
 
-## I made Queues in two different implemention
- - One of them based on array
- - Another based on linked list
+Implement All Data Structure(linked list, queue, stack, Heaps, BST, AVL Tree)
 
+## I implemented queues in two different ways
 
- ## I made Stacks in two different implemention
- - One of them based on array
- - Another based on linked list
+- One of them based on array
+- Another based on linked list
 
+## I implemented stack in two different ways
 
- ## I made arrayList based on array
+- One of them based on array
+- Another based on linked list
 
+## I implemented arrayList based on array
 
- ## I made LinkedList in Three Types 
- - First: Single linked List 
- - Second: Doubly linked List
- - Thrid: Circular Linked List
+## I implemented LinkedList in Three Types
 
+- First: Single linked List
+- Second: Doubly linked List
+- Third: Circular Linked List
 
- ## I made BST(Binary Search Tree)
+## I implemented BST(Binary Search Tree)
 
-## I made AVLTree(Balanced Binary Search Tree)
+## I implemented AVLTree(Balanced Binary Search Tree)
